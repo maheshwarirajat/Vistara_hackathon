@@ -9,4 +9,5 @@ our prediction
 
 # Map.html
 html code of the user interface we used.
-
+# Docs link
+https://docs.google.com/presentation/d/1SOjkhw8V-r49Jfzj54Bf9VCV_uEAgE3yNvWjsze-QYA/edit#slide=id.p
